@@ -8,7 +8,7 @@ on:
 env:
   GCP_PROJECT_ID: fastapi-project-440209
   GCP_REGION: us-central1
-  GAR_REPOSITORY: fastapi
+  GAR_REPOSITORY: project
 
   IMAGE_NAME: fastapi
   IMAGE_TAG: latest
