@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  GCP_PROJECT_ID: constant-tracer-434122-q2
+  GCP_PROJECT_ID: fastapi-project-440209
   GCP_REGION: us-central1
   GAR_REPOSITORY: fastapi
 
